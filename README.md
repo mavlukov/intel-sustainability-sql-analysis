@@ -1,4 +1,5 @@
-# intel-sustainability-sql-analysis
+# Sustainability Impact Analysis for Intel
+
 SQL data analysis project evaluating Intel’s device repurposing program. Uses joins, aggregations, and CASE statements to analyze device lifecycle data, energy savings, and CO₂ reduction impact. Note: This project uses an educational dataset from the Global Career Accelerator SQL program inspired by Intel’s sustainability initiatives.
 # Sustainability Impact Analysis for Intel
 
