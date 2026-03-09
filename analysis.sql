@@ -6,7 +6,16 @@
 --------------------------------------------------
 
 SELECT
-    *,
+    d.device_id,
+    d.device_type,
+    d.model_year,
+    i.impact_id,
+    i.usage_purpose,
+    i.power_consumption,
+    i.energy_savings_yr,
+    i.co2_saved_kg_yr,
+    i.recycling_rate,
+    i.region,
     2024 - d.model_year AS device_age,
     CASE
         WHEN 2024 - d.model_year <= 3 THEN 'newer'
