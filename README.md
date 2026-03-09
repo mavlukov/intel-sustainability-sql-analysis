@@ -70,3 +70,9 @@ Intel should prioritize repurposing:
 - regions with higher carbon intensity
 
 This strategy maximizes energy savings and CO₂ reductions while optimizing sustainability outcomes.
+
+## Visualization
+
+Device type contribution to energy savings and CO₂ reduction by region.
+
+![Device Contribution](device_contribution_chart.png)
